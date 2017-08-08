@@ -11,8 +11,8 @@ Tags: responsive, white, bootstrap
 This simple theme was built using the example Bootstrap theme "Basic marketing site" found on the Bootstrap web site http://twitter.github.com/bootstrap/examples/hero.html
 */
 
-@import url('assets/bootstrap/css/bootstrap.css');
-@import url('assets/css/baguetteBox.min.css');
+/*@import url('assets/bootstrap/css/bootstrap.css');*/
+/*@import url('assets/css/baguetteBox.min.css');*/
 @import url('assets/css/style.css');
 
 
