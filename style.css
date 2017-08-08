@@ -1,0 +1,27 @@
+/*
+Theme Name: tswz
+Theme URI: http://teamtreehouse.com/wordpress-bootstrap-theme-tutorial
+Description: A demo theme built to accompany the Treehouse blog post <a href="http://teamtreehouse.com/wordpress-bootstrap-theme-tutorial">How to Build a WordPress Theme with Bootstrap</a>.
+Author: biao
+Author URI: http://hanbiao.me/
+Version: 1.0
+Tags: responsive, white, bootstrap
+
+
+This simple theme was built using the example Bootstrap theme "Basic marketing site" found on the Bootstrap web site http://twitter.github.com/bootstrap/examples/hero.html
+*/
+
+@import url('assets/bootstrap/css/bootstrap.css');
+@import url('assets/css/baguetteBox.min.css');
+@import url('assets/css/style.css');
+
+
+/*body {*/
+    /*padding-top: 60px;*/
+    /*padding-bottom: 40px;*/
+/*}*/
+
+
+/*
+ *********            header        ***********************
+ */
